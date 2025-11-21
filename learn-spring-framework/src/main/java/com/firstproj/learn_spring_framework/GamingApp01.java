@@ -5,7 +5,7 @@ import com.firstproj.learn_spring_framework.game.MarioGame;
 import com.firstproj.learn_spring_framework.game.PacManGame;
 import com.firstproj.learn_spring_framework.game.SuperContraGame;
 
-public class GamingApp {
+public class GamingApp01 {
     public static void main(String args[]){
         var GamingConsole1 = new MarioGame();
         var GamingConsole2 = new SuperContraGame();
