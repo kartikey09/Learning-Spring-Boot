@@ -1,9 +1,4 @@
-package com.firstproj.learn_spring_framework;
-
-import com.firstproj.learn_spring_framework.game.GameRunner;
-import com.firstproj.learn_spring_framework.game.MarioGame;
-import com.firstproj.learn_spring_framework.game.PacManGame;
-import com.firstproj.learn_spring_framework.game.SuperContraGame;
+package com.firstproj.learn_spring_framework.game;
 
 public class GamingApp01 {
     public static void main(String args[]){

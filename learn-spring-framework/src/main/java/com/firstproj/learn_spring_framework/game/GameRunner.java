@@ -1,7 +1,5 @@
 package com.firstproj.learn_spring_framework.game;
 
-import com.firstproj.learn_spring_framework.GamingConsole;
-
 public class GameRunner {
     GamingConsole game;
     public GameRunner(GamingConsole game) {
